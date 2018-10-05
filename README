@@ -1,0 +1,7 @@
+To Execute:
+
+python3.N memSim.py <reference-sequence-file.txt> [<FRAMES> [<PRA>]]
+
+./memSim <reference-sequence-file.txt> [<FRAMES> [<PRA>]]
+
+Simulated Transition Lookaside Buffer (TLB) with RAM and cache.
